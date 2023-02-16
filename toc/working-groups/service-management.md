@@ -45,6 +45,9 @@ areas:
     github: zucchinidev
   - name: Konstantin Semenov
     github: jhvhs    
+  reviewers:
+  - name: fnaranjo
+    github: fnaranjo-vmw
   bots:
   - name: Services Enablement bot
     github: servicesenablement
@@ -94,7 +97,7 @@ areas:
   - name: Diego Lemos
     github: dlresende
   - name: fnaranjo
-    github: fejnartal
+    github: fnaranjo-vmw
   - name: Gareth Smith
     github: totherme
   - name: Ian Findlay
